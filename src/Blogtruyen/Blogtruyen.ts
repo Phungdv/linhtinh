@@ -27,7 +27,7 @@ export const BlogtruyenInfo: SourceInfo = {
     name: 'Blogtruyen',
     icon: 'icon.png',
     author: 'phungdv',
-    authorWebsite: 'https://github.com/Phungdv/linhtinh.git',
+    authorWebsite: 'https://github.com/Phungdv',
     description: 'Extension that pulls manga from Blogtruyen',
     websiteBaseURL: `https://blogtruyen.vn`,
     contentRating: ContentRating.MATURE,
