@@ -3,7 +3,7 @@ Vietnamese sources for [Paperback](https://paperback.moe/)
 
 ## Link extension
 ```
-phungdv.github.io
+https://phungdv.github.io/linhtinh/
 ```
 ## Sources
 
